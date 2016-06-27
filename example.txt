@@ -1,3 +1,4 @@
 원격 저장소 실습
 
-add coffee : maxim
+add coffee : maxim,
+coffee shops: starbucks, hollys, angelinus, tom & toms
