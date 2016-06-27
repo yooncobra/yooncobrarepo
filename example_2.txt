@@ -1,4 +1,8 @@
 우하핫
 
+<<<<<<< HEAD
 feature/hotdog commit_2
 
+=======
+master/step_2
+>>>>>>> master
