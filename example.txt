@@ -3,3 +3,5 @@
 Tea: green tea, black tea
 
 새로운 멤버 추가 후  tea branch에서 첫번째 커밋!!
+
+수정사항이 생기면 알려 주세요^^ - 두번째 커밋!!
