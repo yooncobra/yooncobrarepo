@@ -1,3 +1,5 @@
 원격 저장소 실습
 
 Tea: green tea, black tea
+
+새로운 멤버 추가 후  tea branch에서 첫번째 커밋!!
